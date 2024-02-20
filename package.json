@@ -1,0 +1,16 @@
+{
+  "name": "web-crawler-concept",
+  "version": "1.0.0",
+  "description": "This is sample project to check my understanding of app crawler at certain level using Node.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
